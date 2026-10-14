@@ -1,0 +1,6 @@
+[
+  {"item_title":"Steel inspection hatch 600 × 600 mm", "short_description":"Steel inspection hatch with powder-coated frame and removable cover.","item_path":"inspection-hatches/steel-hatch-600x600","item_price":15500,"price_label":"15 500 ₽","is_available":"В наличии","main_photo":"/img/hatch.png","dop_photo_1":"/img/hatch-detail.png","articul":"IH-600","category":"Inspection hatches","subcategory":"Steel hatches"},
+  {"item_title":"Metal equipment enclosure", "short_description":"Powder-coated sheet steel enclosure for outdoor installations.","item_path":"enclosures/steel-enclosure","item_price":"24 900","is_available":"В наличии","main_photo":"/img/enclosure.png","articul":"ENC-01","category":"Outdoor equipment"},
+  {"item_title":"Custom fuel island crown", "item_path":"fuel-stations/custom-crown","item_price":55000,"price_label":"от 55 000 ₽","is_available":"Изготовление под заказ","main_photo":"/img/hatch.png","category":"Fuel stations"},
+  {"item_title":"Product without verified stock", "item_path":"enclosures/unknown-stock","item_price":12000,"is_available":"По запросу","main_photo":"/img/hatch.png"}
+]

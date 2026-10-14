@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+<channel>
+<title>Sample Industrial Store</title>
+<link>https://example.com/</link>
+<description>Fixed-price products available in stock</description>
+<item>
+<g:id>618fcf25877126854b2d</g:id>
+<g:title>Metal equipment enclosure</g:title>
+<g:description>Powder-coated sheet steel enclosure for outdoor installations.</g:description>
+<g:link>https://example.com/catalog/enclosures/steel-enclosure</g:link>
+<g:image_link>https://example.com/img/enclosure.png</g:image_link>
+<g:availability>in_stock</g:availability>
+<g:price>24900.00 RUB</g:price>
+<g:condition>new</g:condition>
+<g:brand>ExampleWorks</g:brand>
+<g:mpn>ENC-01</g:mpn>
+<g:product_type>Outdoor equipment</g:product_type>
+</item>
+<item>
+<g:id>4c04a358df17ebd28a6e</g:id>
+<g:title>Steel inspection hatch 600 × 600 mm</g:title>
+<g:description>Steel inspection hatch with powder-coated frame and removable cover.</g:description>
+<g:link>https://example.com/catalog/inspection-hatches/steel-hatch-600x600</g:link>
+<g:image_link>https://example.com/img/hatch.png</g:image_link>
+<g:additional_image_link>https://example.com/img/hatch-detail.png</g:additional_image_link>
+<g:availability>in_stock</g:availability>
+<g:price>15500.00 RUB</g:price>
+<g:condition>new</g:condition>
+<g:brand>ExampleWorks</g:brand>
+<g:mpn>IH-600</g:mpn>
+<g:product_type>Inspection hatches &gt; Steel hatches</g:product_type>
+</item>
+</channel>
+</rss>

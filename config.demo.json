@@ -1,0 +1,8 @@
+{
+  "store_name": "Sample Industrial Store",
+  "base_url": "https://example.com",
+  "currency": "RUB",
+  "default_brand": "ExampleWorks",
+  "public_root": "public",
+  "catalog_files": ["data/products.json"]
+}
